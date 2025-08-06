@@ -1,0 +1,5 @@
+public class PrintAddress {
+    public static void main(String[] args) {
+        System.out.println("Iilm University,Knowledge park 2,Greater Noida,Uttar Pradesh");
+    }
+}
