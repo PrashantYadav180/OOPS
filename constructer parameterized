@@ -9,7 +9,7 @@ public class Geeks {
 
 
     public static void main(String[] args) {
-        Geeks geek1 = new Geeks("vishal", 20);
+        Geeks geek1 = new Geeks("Prashant", 35);
 
         System.out.println("Geek name: " + geek1.name + " and GeekId: " + geek1.id);
     }
